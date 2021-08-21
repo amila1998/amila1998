@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently Second-year undergraduate student at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/)
-- 🌱 I’m currently learning MEARN stack and Android Application Developments
+- 🌱 I’m currently learning MERN stack and Android Application Developments
 - 💬 Ask me about anything
 - 📫 How to reach me: **amiladevin@gmail.com**
 - 😄 Pronouns: ...
