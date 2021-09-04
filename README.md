@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 <br> I'm Amila Devin. </h1>
 
 
-- 🔭 I’m currently Second-year undergraduate student at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/)
+- 🔭 I’m currently Second-year undergraduate student at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) Student No:IT20089436
 - 🌱 I’m currently learning MERN stack and Android Application Developments
 - 💬 Ask me about anything
 - 📫 How to reach me: **amiladevin@gmail.com**
